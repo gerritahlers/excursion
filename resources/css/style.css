@@ -34,3 +34,13 @@ h3 {
     color: aquamarine;
     text-align: center;
 }
+
+img {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+video {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
